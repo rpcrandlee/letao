@@ -21,6 +21,11 @@ a:active {
     list-style: none;
 }
 
+.table.table-bordered td {
+    text-align: center;
+    vertical-align: middle;
+}
+
 .body_bg {
     background-color: #222d32;
 }
